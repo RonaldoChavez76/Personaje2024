@@ -11,7 +11,7 @@ El personaje movera la mano la cual tendra un hacha de batalla (el cual sera un 
 |--|--|--|--|
 |ESP32|<img src="https://github.com/user-attachments/assets/0d280367-493e-4f7c-a587-36e1f822116b" width="100">|1|120.00|
 |HC-SRC04|<img src="https://github.com/user-attachments/assets/a0044297-ca77-475d-b207-4953bdad294e" width="100">|1|50.0|
-|Buezzer|<img src="https://http2.mlstatic.com/D_NQ_NP_606349-MLM31215476593_062019-O.webp" width="100">|1|70.0|
+|Buzzer|<img src="https://http2.mlstatic.com/D_NQ_NP_606349-MLM31215476593_062019-O.webp" width="100">|1|70.0|
 |Leds|<img src="https://www.luisllamas.es/wp-content/uploads/2015/11/arduino-led-color.jpg" width="100">|20|80.0|
 |Pantalla oled|<img src="https://http2.mlstatic.com/D_NQ_NP_707970-MLM70794691112_082023-O.webp" width="100">|1|90.0|
 |Fomi moldeable|<img src="https://http2.mlstatic.com/D_NQ_NP_963070-MLU76369635570_052024-O.webp" width="100">|1|100.0|
