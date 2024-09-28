@@ -1,10 +1,10 @@
 # Personaje2024
-## Nombre del personake
+## Nombre del personaje
 Kratos de navidad
 ## Creador
 Santiago Ronaldo Chavez Pinon
 ## Explicacion del funcionamiento
-El personaje movera la mano la cual tendra un hacha de batalla (el cual sera un ataque), ademas de hacer sonidos a la hora de moverla, y encendera una estrella en la punta del hacha, tambien encenderan unos led rojos en sus ojos para simular su ira. Ademas de una pantalla oled que dira "kratos te desea feliz navidad", que estaran las letras en movimiento.
+El personaje movera la mano la cual tendra un hacha de batalla (el cual sera un ataque), ademas de hacer sonidos a la hora de moverla, y encendera una estrella en la punta del hacha, tambien encenderan unos led rojos en sus ojos para simular su ira (la ira de esparta). Ademas de una pantalla oled que dira "kratos te desea feliz navidad", que estaran las letras en movimiento.
 
 ## Materiales a utlizar
 |Material|Imagen|Cantidad|Costo|
