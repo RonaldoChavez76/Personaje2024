@@ -31,3 +31,21 @@ https://wokwi.com/projects/410231413217494017
 ## Videos
 https://drive.google.com/drive/folders/1cn4SXWIPaJfgPbh3k4_EIS3nV6v_3w50?usp=sharing
 ## Imagen de la captura de pantalla de los examenes de cisco
+Modulo 1
+![image](https://github.com/user-attachments/assets/8c5de94b-2746-46e8-b2b6-117345f1edd8)
+Modulo 2
+![image](https://github.com/user-attachments/assets/4c8d76c6-b96f-4c5f-b8f6-614ad9a12be7)
+Modulo 3
+![image](https://github.com/user-attachments/assets/32b3e386-9c09-4baa-af63-19ce1249fd76)
+Modulo 4
+![image](https://github.com/user-attachments/assets/f59a6a52-ac9f-4c5f-b757-4776182179da)
+Modulo 5
+![image](https://github.com/user-attachments/assets/9d739f7d-689f-47a2-a152-4cea3dc967c1)
+Examen final
+![image](https://github.com/user-attachments/assets/63766d44-0e1a-465d-b6ad-fd2a41b5466f)
+
+
+
+
+
+
