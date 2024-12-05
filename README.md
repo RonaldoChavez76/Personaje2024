@@ -20,7 +20,8 @@ El personaje movera la mano la cual tendra un hacha de batalla (el cual sera un 
 |Servo|<img src="https://http2.mlstatic.com/D_NQ_NP_906831-MLM43600595681_092020-O.webp" width="100">|1|100.0|
 
 ## Software a utilizar
-|Arduino IDE|1.8.19|
+|Thonny|Version mas reciente|
+|NodeRed| Version mas reciente|
 
 ## Dibujo del prototipo
 ![Imagen de WhatsApp 2024-09-27 a las 21 56 26_acac6029](https://github.com/user-attachments/assets/9658cd3b-7d1c-441f-96ce-6b30bb6248a1)
