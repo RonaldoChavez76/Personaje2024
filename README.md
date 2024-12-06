@@ -40,6 +40,18 @@ https://vm.tiktok.com/ZMke23RPm/
 ## Videos de practicas de clase
 https://drive.google.com/drive/folders/1vG16-k2NdI7jhrunvFS6RTJ2S9zynrCm
 
+##Desarrollo del personaje
+![Imagen de WhatsApp 2024-12-06 a las 10 13 25_d59b7ddc](https://github.com/user-attachments/assets/7b493526-3448-49f4-a7a9-6bc190368322)
+![Imagen de WhatsApp 2024-12-06 a las 10 13 25_ad2272dd](https://github.com/user-attachments/assets/7042f25b-bae7-4ff2-9497-b73e44f26381)
+![Imagen de WhatsApp 2024-12-06 a las 10 13 25_0ca80deb](https://github.com/user-attachments/assets/a5ec83b1-9dd5-4567-b3d5-5f5a1ec9e5c3)
+![Imagen de WhatsApp 2024-12-06 a las 10 13 25_7011c8f1](https://github.com/user-attachments/assets/0f5fdc31-a9d9-4426-ae92-89f1eebb874a)
+![Imagen de WhatsApp 2024-12-06 a las 10 13 24_d24dd335](https://github.com/user-attachments/assets/08ccea5e-baad-4836-9472-2814e5e131e5)
+![Imagen de WhatsApp 2024-12-06 a las 10 13 24_977f0e53](https://github.com/user-attachments/assets/91afb7a3-5b68-47bc-a845-389bcb3fc523)
+![Imagen de WhatsApp 2024-12-06 a las 10 13 20_ce891b62](https://github.com/user-attachments/assets/dbee3807-ca8b-44e0-87c3-668e044bc1f0)
+![Imagen de WhatsApp 2024-12-06 a las 10 13 20_c98c7fe6](https://github.com/user-attachments/assets/6453b12e-4acf-44dc-b114-e5202a2dd52b)
+![Imagen de WhatsApp 2024-12-06 a las 10 13 19_e50d44cd](https://github.com/user-attachments/assets/e0770be5-9f72-412c-b513-a262240c5ad9)
+
+
 ## Imagen de la captura de pantalla de los examenes de cisco De Santiago Ronaldo Chavez Piñon
 Modulo 1
 ![image](https://github.com/user-attachments/assets/7f3b983e-290a-4efc-adb3-2c2a647c7e11)
@@ -60,7 +72,8 @@ Modulo 6
 ![image](https://github.com/user-attachments/assets/a08d93ce-5c97-464f-bdb8-bd3af03f1fad)
 
 Examen final
-![image](https://github.com/user-attachments/assets/577119c3-a6e6-45e2-b1bc-6383cd50b06a)
+![image](https://github.com/user-attachments/assets/6026d46e-60f5-4d49-8319-e529ff3b7c20)
+
 
 
 ## Imagenes de las capturas de pantalla de los examenes de cisco de Carlos Benito Ramirez Vazquez
