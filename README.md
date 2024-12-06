@@ -20,6 +20,7 @@ El personaje Kratos movera un servo simulando una arma la cual sera un arbol de 
 |Pantalla oled|<img src="https://http2.mlstatic.com/D_NQ_NP_707970-MLM70794691112_082023-O.webp" width="100">|1|60.0|
 |Escarcha|<img src="https://http2.mlstatic.com/D_NQ_NP_850675-MLM73247110814_122023-O.webp" width="100">|2|60.0|
 |Carton|<img src="https://lh6.googleusercontent.com/YW5e9XHiGJzYRZITTqgnqIbM4geDX_L2nOyCTm3LlezSPYF7sqXPMxOZuMf8o_B7gtSwwEov6vdjryfqMR3KuswHz9CI9wgMnjIuhEOdxT0uaVNCOQzuBS68xeNw820dQU_Po_X_" width="100">|2|100.0|
+|Silicon|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4XJANrwSavxxAlL34gZ6TzYpytIRlS_fH8A&s" width="100">|4|20|
 |Cable|<img src="https://sieeg.com.mx/wp-content/uploads/2023/01/10cm-Cable-Dupont-macho-hembra.png" width="100">|20|140.0|
 |Servo|<img src="https://http2.mlstatic.com/D_NQ_NP_906831-MLM43600595681_092020-O.webp" width="100">|1|60.0|
 
