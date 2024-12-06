@@ -1,4 +1,4 @@
-# Proyecto navideño 2024
+[flows (1).json](https://github.com/user-attachments/files/18040996/flows.1.json)# Proyecto navideño 2024
 
 ## Nombre del personaje
 Kratos de navidad
@@ -50,6 +50,227 @@ https://drive.google.com/drive/folders/1vG16-k2NdI7jhrunvFS6RTJ2S9zynrCm
 ![Imagen de WhatsApp 2024-12-06 a las 10 13 20_ce891b62](https://github.com/user-attachments/assets/dbee3807-ca8b-44e0-87c3-668e044bc1f0)
 ![Imagen de WhatsApp 2024-12-06 a las 10 13 20_c98c7fe6](https://github.com/user-attachments/assets/6453b12e-4acf-44dc-b114-e5202a2dd52b)
 ![Imagen de WhatsApp 2024-12-06 a las 10 13 19_e50d44cd](https://github.com/user-attachments/assets/e0770be5-9f72-412c-b513-a262240c5ad9)
+
+
+##Flujo de Node red
+
+[Uplo[
+    {
+        "id": "a498de4eab60397d",
+        "type": "tab",
+        "label": "Flow 3",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "b8e669695217924d",
+        "type": "ui_switch",
+        "z": "a498de4eab60397d",
+        "name": "",
+        "label": "led1",
+        "tooltip": "",
+        "group": "41a889effb2c1b41",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "1",
+        "onvalueType": "num",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "0",
+        "offvalueType": "num",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 830,
+        "y": 200,
+        "wires": [
+            [
+                "d6ae5818477924e3"
+            ]
+        ]
+    },
+    {
+        "id": "d6ae5818477924e3",
+        "type": "mqtt out",
+        "z": "a498de4eab60397d",
+        "name": "",
+        "topic": "gds0641/kratos",
+        "qos": "2",
+        "retain": "false",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "3f61c6dc3acea1fd",
+        "x": 1120,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "2f816e0ba645eb24",
+        "type": "ui_switch",
+        "z": "a498de4eab60397d",
+        "name": "",
+        "label": "led2",
+        "tooltip": "",
+        "group": "41a889effb2c1b41",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "3",
+        "onvalueType": "num",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "2",
+        "offvalueType": "num",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 830,
+        "y": 280,
+        "wires": [
+            [
+                "0356bc9e61dc6fd9"
+            ]
+        ]
+    },
+    {
+        "id": "0356bc9e61dc6fd9",
+        "type": "mqtt out",
+        "z": "a498de4eab60397d",
+        "name": "",
+        "topic": "gds0641/kratos",
+        "qos": "2",
+        "retain": "false",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "3f61c6dc3acea1fd",
+        "x": 1120,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "db881bf0e61d1cee",
+        "type": "mqtt out",
+        "z": "a498de4eab60397d",
+        "name": "",
+        "topic": "gds0641/kratos",
+        "qos": "2",
+        "retain": "false",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "3f61c6dc3acea1fd",
+        "x": 1120,
+        "y": 380,
+        "wires": []
+    },
+    {
+        "id": "a2e82292d2718f85",
+        "type": "ui_switch",
+        "z": "a498de4eab60397d",
+        "name": "",
+        "label": "buzzer",
+        "tooltip": "",
+        "group": "41a889effb2c1b41",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "5",
+        "onvalueType": "num",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "4",
+        "offvalueType": "num",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 830,
+        "y": 380,
+        "wires": [
+            [
+                "db881bf0e61d1cee"
+            ]
+        ]
+    },
+    {
+        "id": "41a889effb2c1b41",
+        "type": "ui_group",
+        "name": "Benjamin3000",
+        "tab": "d6ec08059d6c41ac",
+        "order": 5,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "3f61c6dc3acea1fd",
+        "type": "mqtt-broker",
+        "name": "Garagay",
+        "broker": "broker.emqx.io",
+        "port": "1883",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "d6ec08059d6c41ac",
+        "type": "ui_tab",
+        "name": "Basicos",
+        "icon": "dashboard",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    }
+]ading flows (1).json…]()
 
 
 ## Imagen de la captura de pantalla de los examenes de cisco De Santiago Ronaldo Chavez Piñon
