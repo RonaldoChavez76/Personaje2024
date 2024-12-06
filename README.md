@@ -42,16 +42,23 @@ https://drive.google.com/drive/folders/1vG16-k2NdI7jhrunvFS6RTJ2S9zynrCm
 
 ## Imagen de la captura de pantalla de los examenes de cisco De Santiago Ronaldo Chavez Piñon
 Modulo 1
-![image](https://github.com/user-attachments/assets/8c5de94b-2746-46e8-b2b6-117345f1edd8)
+![image](https://github.com/user-attachments/assets/7f3b983e-290a-4efc-adb3-2c2a647c7e11)
+
 Modulo 2
-![image](https://github.com/user-attachments/assets/4c8d76c6-b96f-4c5f-b8f6-614ad9a12be7)
+![image](https://github.com/user-attachments/assets/60974b54-5ff3-4344-b806-03fe070f1cf3)
+
 Modulo 3
-![image](https://github.com/user-attachments/assets/32b3e386-9c09-4baa-af63-19ce1249fd76)
+![image](https://github.com/user-attachments/assets/b5c9607c-725c-4d4f-afb8-e2ebb6ce4a33)
+
 Modulo 4
-![image](https://github.com/user-attachments/assets/f59a6a52-ac9f-4c5f-b757-4776182179da)
+![image](https://github.com/user-attachments/assets/bd56f094-2888-419a-8353-7f30275e781a)
+
 Modulo 5
-![image](https://github.com/user-attachments/assets/9d739f7d-689f-47a2-a152-4cea3dc967c1)
+![image](https://github.com/user-attachments/assets/6db69abb-6dba-44a7-80ac-daec23490b9b)
+
 Modulo 6
+![image](https://github.com/user-attachments/assets/a08d93ce-5c97-464f-bdb8-bd3af03f1fad)
+
 Examen final
 ![image](https://github.com/user-attachments/assets/63766d44-0e1a-465d-b6ad-fd2a41b5466f)
 
@@ -85,6 +92,10 @@ Examen final:
 ### Carlos Benito Ramirez Vazquez
 Mi compañero Ronaldo tiene capacidad para poder resolver problemas de codificacion de elementos que van acorde a la esp32, pero cuando se trata de resolver pacientemente uno de ellos
 suele desesperase muy facilmente, asi que creo yo que deberia de trabajar en ese aspecto 9/10.
+
+
+## Santiago Ronaldo Chavez Piñon
+Considero que mi compañero Benito tiene los conocimientos para realizar todo lo que se le ponga enfrente, pero tiene una contra que se distrae con facilidad, y esto resulta que baje su eficiencia a la hora de trabajar, así no acabando actividades de clase o fuera de esta. A lo largo de este cuatri conecte muy bien con mi compañero, tiene grandes habilidades a la hora del código, pero si podría mejorar en la disciplina de enfocarse en el trabajo de las clases. 9/10
 
 
 
