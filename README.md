@@ -1,4 +1,4 @@
-# Personaje2024
+# Proyecto navideño 2024
 
 ## Nombre del personaje
 Kratos de navidad
@@ -34,11 +34,11 @@ El personaje Kratos movera un servo simulando una arma la cual sera un arbol de 
 ![Imagen de WhatsApp 2024-11-26 a las 19 52 03_4c81a4f1](https://github.com/user-attachments/assets/72952dfa-2399-4c29-9375-c3b6ca9404c6)
 
 
-## Enlaces de la simulacion de wokwi
-https://wokwi.com/projects/410231413217494017
+## Enlace del TikTok
+https://vm.tiktok.com/ZMke23RPm/
 
-## Videos
-https://drive.google.com/drive/folders/1cn4SXWIPaJfgPbh3k4_EIS3nV6v_3w50?usp=sharing
+## Videos de practicas de clase
+https://drive.google.com/drive/folders/1vG16-k2NdI7jhrunvFS6RTJ2S9zynrCm
 
 ## Imagen de la captura de pantalla de los examenes de cisco De Santiago Ronaldo Chavez Piñon
 Modulo 1
@@ -84,7 +84,7 @@ Examen final:
 
 ### Carlos Benito Ramirez Vazquez
 Mi compañero Ronaldo tiene capacidad para poder resolver problemas de codificacion de elementos que van acorde a la esp32, pero cuando se trata de resolver pacientemente uno de ellos
-suele desesperase muy facilmente, asi que creo yo que deberia de trabajar en ese aspecto 4.5/5.
+suele desesperase muy facilmente, asi que creo yo que deberia de trabajar en ese aspecto 9/10.
 
 
 
