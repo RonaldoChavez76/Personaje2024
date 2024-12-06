@@ -60,7 +60,8 @@ Modulo 6
 ![image](https://github.com/user-attachments/assets/a08d93ce-5c97-464f-bdb8-bd3af03f1fad)
 
 Examen final
-![image](https://github.com/user-attachments/assets/63766d44-0e1a-465d-b6ad-fd2a41b5466f)
+![image](https://github.com/user-attachments/assets/577119c3-a6e6-45e2-b1bc-6383cd50b06a)
+
 
 ## Imagenes de las capturas de pantalla de los examenes de cisco de Carlos Benito Ramirez Vazquez
 Modulo 1:
