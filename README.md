@@ -3,8 +3,9 @@
 ## Nombre del personaje
 Kratos de navidad
 
-## Creador
-Santiago Ronaldo Chavez Piñon
+## Creadores
+- Santiago Ronaldo Chavez Piñon
+- Carlos Benito Ramirez Vazquez
 
 ## Explicacion del funcionamiento
 El personaje Kratos movera un servo simulando una arma la cual sera un arbol de navidad con una tira led, esta tira led cambiara los colores conforme pasa el tiempo. Ademas, encenderan dos leds rojos que seran los ojos del personaje simulando la furia de esparta, sonara una melodia navideña con nuestro buzer, todo esto se activara mediante un sensor de distancia.
@@ -17,9 +18,9 @@ El personaje Kratos movera un servo simulando una arma la cual sera un arbol de 
 |Buzzer|<img src="https://http2.mlstatic.com/D_NQ_NP_606349-MLM31215476593_062019-O.webp" width="100">|1|35.0|
 |Leds|<img src="https://www.luisllamas.es/wp-content/uploads/2015/11/arduino-led-color.jpg" width="100">|20|20.0|
 |Pantalla oled|<img src="https://http2.mlstatic.com/D_NQ_NP_707970-MLM70794691112_082023-O.webp" width="100">|1|60.0|
-|Fomi moldeable|<img src="https://http2.mlstatic.com/D_NQ_NP_963070-MLU76369635570_052024-O.webp" width="100">|1|100.0|
-|Carton|<img src="https://lh6.googleusercontent.com/YW5e9XHiGJzYRZITTqgnqIbM4geDX_L2nOyCTm3LlezSPYF7sqXPMxOZuMf8o_B7gtSwwEov6vdjryfqMR3KuswHz9CI9wgMnjIuhEOdxT0uaVNCOQzuBS68xeNw820dQU_Po_X_" width="100">|Depende|100.0|
-|Cable|<img src="https://sieeg.com.mx/wp-content/uploads/2023/01/10cm-Cable-Dupont-macho-hembra.png" width="100">|Depende|140.0|
+|Escarcha|<img src="https://http2.mlstatic.com/D_NQ_NP_850675-MLM73247110814_122023-O.webp" width="100">|2|60.0|
+|Carton|<img src="https://lh6.googleusercontent.com/YW5e9XHiGJzYRZITTqgnqIbM4geDX_L2nOyCTm3LlezSPYF7sqXPMxOZuMf8o_B7gtSwwEov6vdjryfqMR3KuswHz9CI9wgMnjIuhEOdxT0uaVNCOQzuBS68xeNw820dQU_Po_X_" width="100">|2|100.0|
+|Cable|<img src="https://sieeg.com.mx/wp-content/uploads/2023/01/10cm-Cable-Dupont-macho-hembra.png" width="100">|20|140.0|
 |Servo|<img src="https://http2.mlstatic.com/D_NQ_NP_906831-MLM43600595681_092020-O.webp" width="100">|1|60.0|
 
 ## Software a utilizar
@@ -34,8 +35,10 @@ El personaje Kratos movera un servo simulando una arma la cual sera un arbol de 
 
 ## Enlaces de la simulacion de wokwi
 https://wokwi.com/projects/410231413217494017
+
 ## Videos
 https://drive.google.com/drive/folders/1cn4SXWIPaJfgPbh3k4_EIS3nV6v_3w50?usp=sharing
+
 ## Imagen de la captura de pantalla de los examenes de cisco De Santiago Ronaldo Chavez Piñon
 Modulo 1
 ![image](https://github.com/user-attachments/assets/8c5de94b-2746-46e8-b2b6-117345f1edd8)
@@ -48,13 +51,39 @@ Modulo 4
 Modulo 5
 ![image](https://github.com/user-attachments/assets/9d739f7d-689f-47a2-a152-4cea3dc967c1)
 Modulo 6
-
 Examen final
 ![image](https://github.com/user-attachments/assets/63766d44-0e1a-465d-b6ad-fd2a41b5466f)
 
+## Imagenes de las capturas de pantalla de los examenes de cisco de Carlos Benito Ramirez Vazquez
+Modulo 1:
+![image](https://github.com/user-attachments/assets/d873ff11-c37c-4ecc-a068-d1a5d0a91ef4)
+
+Modulo 2:
+![image](https://github.com/user-attachments/assets/6e02e498-5ab0-45ba-bcb9-df2a1f0e4411)
+
+Modulo 3:
+![image](https://github.com/user-attachments/assets/d4a52f36-06dd-48c3-83c2-f652cab66daa)
+
+Modulo 4:
+![image](https://github.com/user-attachments/assets/76e770c9-817f-4bc9-a721-6f534a13978e)
+
+Modulo 5:
+![image](https://github.com/user-attachments/assets/19a2c2c5-1ff0-481a-b731-d197c25fbbc8)
+
+Modulo 6:
+![image](https://github.com/user-attachments/assets/38528a8d-515d-497f-9d5c-b0ce9de16e8c)
+
+Examen final:
+![image](https://github.com/user-attachments/assets/15308ad8-4986-4dba-876f-b9e9dd1c8c19)
+
+
+
+
 ## Retroalimentacion
 
-
+### Carlos Benito Ramirez Vazquez
+Mi compañero Ronaldo tiene capacidad para poder resolver problemas de codificacion de elementos que van acorde a la esp32, pero cuando se trata de resolver pacientemente uno de ellos
+suele desesperase muy facilmente, asi que creo yo que deberia de trabajar en ese aspecto 4.5/5.
 
 
 
