@@ -23,6 +23,7 @@ El personaje Kratos movera un servo simulando una arma la cual sera un arbol de 
 |Servo|<img src="https://http2.mlstatic.com/D_NQ_NP_906831-MLM43600595681_092020-O.webp" width="100">|1|60.0|
 
 ## Software a utilizar
+|IDE|Version|
 |--|--|
 |Thonny|Version mas reciente|
 |NodeRed| Version mas reciente|
